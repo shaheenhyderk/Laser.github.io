@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Laser Cutting
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/Laser.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://shaheenhyderk.github.io/lase.jpg" width="700" height="400">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Laser cutting is mainliy user for cutting and engraving. High intensity laser is passed through the object. The laser is passed through the lines in 2D figure.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Steps for cutting laser
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ Draw 2D diagram 
+$ Give print by setting the pressure & speed
+$ Set x & y in laser printer
+$ If we are not closing the glass it will show the path
+$ Now close the glass and press 'go'
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Adjust the pressure and speed here
 
-### Jekyll Themes
+<img src="https://shaheenhyderk.github.io/la.jpg" width="600" height="400">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/Laser.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Go To:
+ 
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/phone-stand.github.io/)
